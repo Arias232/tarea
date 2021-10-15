@@ -1,0 +1,16 @@
+C:\Users\bayro\Desktop\Ordenamiento burbuja\bin\Debug\net5.0\Ordenamiento burbuja.exe
+C:\Users\bayro\Desktop\Ordenamiento burbuja\bin\Debug\net5.0\Ordenamiento burbuja.deps.json
+C:\Users\bayro\Desktop\Ordenamiento burbuja\bin\Debug\net5.0\Ordenamiento burbuja.runtimeconfig.json
+C:\Users\bayro\Desktop\Ordenamiento burbuja\bin\Debug\net5.0\Ordenamiento burbuja.runtimeconfig.dev.json
+C:\Users\bayro\Desktop\Ordenamiento burbuja\bin\Debug\net5.0\Ordenamiento burbuja.dll
+C:\Users\bayro\Desktop\Ordenamiento burbuja\bin\Debug\net5.0\ref\Ordenamiento burbuja.dll
+C:\Users\bayro\Desktop\Ordenamiento burbuja\bin\Debug\net5.0\Ordenamiento burbuja.pdb
+C:\Users\bayro\Desktop\Ordenamiento burbuja\obj\Debug\net5.0\Ordenamiento burbuja.csproj.AssemblyReference.cache
+C:\Users\bayro\Desktop\Ordenamiento burbuja\obj\Debug\net5.0\Ordenamiento burbuja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bayro\Desktop\Ordenamiento burbuja\obj\Debug\net5.0\Ordenamiento burbuja.AssemblyInfoInputs.cache
+C:\Users\bayro\Desktop\Ordenamiento burbuja\obj\Debug\net5.0\Ordenamiento burbuja.AssemblyInfo.cs
+C:\Users\bayro\Desktop\Ordenamiento burbuja\obj\Debug\net5.0\Ordenamiento burbuja.csproj.CoreCompileInputs.cache
+C:\Users\bayro\Desktop\Ordenamiento burbuja\obj\Debug\net5.0\Ordenamiento burbuja.dll
+C:\Users\bayro\Desktop\Ordenamiento burbuja\obj\Debug\net5.0\ref\Ordenamiento burbuja.dll
+C:\Users\bayro\Desktop\Ordenamiento burbuja\obj\Debug\net5.0\Ordenamiento burbuja.pdb
+C:\Users\bayro\Desktop\Ordenamiento burbuja\obj\Debug\net5.0\Ordenamiento burbuja.genruntimeconfig.cache

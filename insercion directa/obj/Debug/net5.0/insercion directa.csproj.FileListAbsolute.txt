@@ -1,0 +1,16 @@
+C:\Users\bayro\Desktop\insercion directa\bin\Debug\net5.0\insercion directa.exe
+C:\Users\bayro\Desktop\insercion directa\bin\Debug\net5.0\insercion directa.deps.json
+C:\Users\bayro\Desktop\insercion directa\bin\Debug\net5.0\insercion directa.runtimeconfig.json
+C:\Users\bayro\Desktop\insercion directa\bin\Debug\net5.0\insercion directa.runtimeconfig.dev.json
+C:\Users\bayro\Desktop\insercion directa\bin\Debug\net5.0\insercion directa.dll
+C:\Users\bayro\Desktop\insercion directa\bin\Debug\net5.0\ref\insercion directa.dll
+C:\Users\bayro\Desktop\insercion directa\bin\Debug\net5.0\insercion directa.pdb
+C:\Users\bayro\Desktop\insercion directa\obj\Debug\net5.0\insercion directa.csproj.AssemblyReference.cache
+C:\Users\bayro\Desktop\insercion directa\obj\Debug\net5.0\insercion directa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bayro\Desktop\insercion directa\obj\Debug\net5.0\insercion directa.AssemblyInfoInputs.cache
+C:\Users\bayro\Desktop\insercion directa\obj\Debug\net5.0\insercion directa.AssemblyInfo.cs
+C:\Users\bayro\Desktop\insercion directa\obj\Debug\net5.0\insercion directa.csproj.CoreCompileInputs.cache
+C:\Users\bayro\Desktop\insercion directa\obj\Debug\net5.0\insercion directa.dll
+C:\Users\bayro\Desktop\insercion directa\obj\Debug\net5.0\ref\insercion directa.dll
+C:\Users\bayro\Desktop\insercion directa\obj\Debug\net5.0\insercion directa.pdb
+C:\Users\bayro\Desktop\insercion directa\obj\Debug\net5.0\insercion directa.genruntimeconfig.cache
